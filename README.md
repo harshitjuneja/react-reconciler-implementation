@@ -1,3 +1,13 @@
+Goal: This pet project is intended to serve the following purpose/purposes:
+
+1. Understand how react performs reconciliation (Fibre reconciliation)
+2. History of the reconciliation process (Stack reconciliation)
+3. Decision making in choosing how data is efficiently represented to be worked upon (Data Structure choice)
+4. The Algorithm approach in itself (Hopefully understand the complexity)
+5. Line by line code analysis inside react/src/packages/reconciler/
+6. Mimicing the fiber logic with practical examples
+7. Write and share my understanding with the broader community.
+
 Reconciler: the mechanism that tracks changes (performs the updation to the virtual DOM if requried) and makes it visible on the screen
 
 Focus/Output: 
